@@ -1,9 +1,9 @@
 
-# Assignment API Project
+# Nest API Playground Project
 
 ## Description
 
-This is the Assignment API project built with NestJS. The API provides various functionalities including user authentication and profile management.
+This is the Nest API Playground project built with NestJS. The API provides various functionalities including user authentication and profile management.
 
 ## Requirements
 
@@ -20,7 +20,7 @@ To run this project, ensure you have the following installed on your machine:
 
 To download the project, clone it from the GitHub repository:
 ```bash
-git clone https://github.com/joaopschias/assignment-api.git && cd assignment-api
+git clone https://github.com/joaopschiazza/nest-api-playground.git && cd nest-api-playground
 ```
 
 ### Environment Variables
@@ -206,7 +206,7 @@ For more detailed information and advanced usage, please refer to the [official 
 
 ## Conclusion
 
-This README provides the necessary steps to set up and run the Assignment API project using both Docker and local environments. By following these instructions, you can efficiently develop and test the API functionalities.
+This README provides the necessary steps to set up and run the Nest API Playground project using both Docker and local environments. By following these instructions, you can efficiently develop and test the API functionalities.
 
 If you have any questions or need further assistance, please feel free to reach out.
 
